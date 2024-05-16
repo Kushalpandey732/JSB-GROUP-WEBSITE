@@ -469,6 +469,12 @@ h3.sub-title::after {
     position: relative;
 }
 
+.portfolio a img{
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+}
+
 .portfolio-custom-row {
     margin-left: -5px;
     margin-right: -5px;
