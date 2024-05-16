@@ -225,7 +225,7 @@ h3.sub-title::after {
 
 .single-item:hover .item-icon-bg,
 .single-item:hover .item-icons {
-    background: #02D8FF none repeat scroll 0 0;
+    background: #9e1e22 none repeat scroll 0 0;
 }
 
 .service-area .item-text h3 {
@@ -472,7 +472,7 @@ h3.sub-title::after {
 .portfolio a img{
     aspect-ratio: 3/2;
     object-fit: contain;
-    mix-blend-mode: color-burn;
+    /* mix-blend-mode: color-burn; */
 }
 
 .portfolio-custom-row {
