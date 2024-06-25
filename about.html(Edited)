@@ -1,0 +1,524 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>About Us || JSB GROUP</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Favicon -->
+        <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+
+        <!-- CSS
+        ============================================ -->
+
+        <!-- Icon Font CSS -->
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/material-design-iconic-font.css">
+        <link rel="stylesheet" href="assets/css/material-design-iconic-font.min.css">
+
+        <!-- Plugins CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/slick.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
+        <link rel="stylesheet" href="assets/css/animate.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.css">
+        <link rel="stylesheet" href="assets/css/shortcode/shortcodes.css">
+
+        <!-- Main Style CSS -->
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+           
+		<!-- Header Area Start -->
+		<header class="header-area">
+		    <div class="header-top-area bg-dark-1 hidden-xs">
+		        <div class="container">
+		            <div class="row">
+		                <div class="col-md-6 col-sm-6">
+		                    <div class="header-msg">
+		                        <span>Welcome To Our <span>Company</span></span>
+		                    </div>
+		                </div>
+		                <div class="col-md-6 col-sm-6">
+		                    <div class="header-links">
+		                        <a href="#"><i class="zmdi zmdi-facebook"></i></a>
+		                        <a href="#"><i class="zmdi zmdi-rss"></i></a>
+		                        <a href="#"><i class="zmdi zmdi-google-plus"></i></a>
+		                        <a href="#"><i class="zmdi zmdi-pinterest"></i></a>
+		                        <a href="#"><i class="zmdi zmdi-instagram"></i></a>
+		                    </div>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		    <div class="logo-menu-area overlay-light-1 fixed header-sticky">
+		        <div class="container">
+		            <div class="row">
+		                <div class="col-lg-4">
+							<div class="logo">
+								<a href="index.html"><img src="assets/images/logo/JSB Group Logo.png" alt="Conjoint" /></a>
+							</div>
+		                </div>
+						<div class="col-lg-8">
+                            <div class="main-menu text-right">
+                                <nav>
+                                    <ul>       
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="about.html">about us</a></li>
+                                        <li><a href="#">portfolio</a>
+                                            <ul>
+                                                <li><a href="#">portfolio Details</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Media</a>
+                                            <ul>
+                                                <li><a href="#">Blog Details</a></li>
+                                            </ul>
+                                        </li>
+                                        <!-- <li><a href="#">pages</a>
+                                            <ul>
+                                                <li><a href="about.html">about us</a></li>
+                                                <li><a href="portfolio.html">portfolio</a></li>
+                                                <li><a href="portfolio-details.html">portfolio Details</a></li>
+                                                <li><a href="blog.html">Blog</a></li>
+                                                <li><a href="blog-details.html">Blog Details</a></li>
+                                                <li><a href="contact.html">contact us</a></li>
+                                            </ul>
+                                        </li> -->
+                                        <li><a href="contact.html">contact us</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="mobile-menu hidden-lg hidden-md"></div>
+						</div>
+		            </div>
+		        </div>
+		    </div>
+		</header>
+		<!-- Header Area End -->
+		<!-- Breadcrumb Area Start-->
+		<div class="breadcrumb-area overlay-4  bg-10 ptb-70">	
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-6">
+						<div class="breadcrumb-text text-center">
+							<h2>About Us</h2>
+							<div class="breadcrumb-bar">
+								<ul class="breadcrumb justify-content-center">
+									<li><a href="index.html">HOME</a></li>
+									<li>About Us</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Breadcrumb Area End -->
+        <!-- Feature Area Start -->
+        <!-- <section class="feature-area ptb-110">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-item text-center">
+                            <div class="f-icon">
+                                <img src="assets/images/icons/client-2.png" alt="">
+                            </div>
+                            <div class="item-text">
+                                <h3>Purpose</h3>
+                                <p style="text-align: justify;">Crafting Tomorrow's Experiences: Bridging F&B, Retail, Distribution, and Technology for a Brighter Future.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-item text-center">
+                            <div class="f-icon">
+                                <img src="assets/images/icons/investment-2.png" alt="">
+                            </div>
+                            <div class="item-text">
+                                <h3>Vision</h3>
+                                <p style="text-align: justify;">Pioneering a Future Where F&B, Retail, Distribution, and Technology Seamlessly Merge to Enrich Lives and Transform Industries.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-item text-center">
+                            <div class="f-icon">
+                                <img src="assets/images/icons/solution-2.png" alt="">
+                            </div>
+                            <div class="item-text">
+                                <h3>Mission</h3>
+                                <p style="text-align: justify;">Our mission is to be the preferred provider of F&B, retail, distribution, and technology solutions, offering a diverse range of high-quality products and services tailored to meet the evolving needs of our customers, while maximizing value for all stakeholders and contributing positively to society.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <!-- Feature Area End -->
+        <!-- About Skill Area Start -->
+        <section class="about-skill-area pt-110 pb-80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2>ABOUT JSB Group</h2>
+                        <div class="about-skill-test">
+                            <h5 style="font-weight: bold; color: #9e1e22">From Dreams to Reality: The Unstoppable Force of Purposeful Action</h5>
+                            <p>Established in 2015, JSB Group has emerged as a dynamic conglomerate in the thriving landscape of the UAE's business arena. Our journey has seen us transcend boundaries, diversifying into multiple sectors including FnB, Fitness, Distribution, Retail, and Fitout. With a robust portfolio boasting 15 companies, JSB Group stands as a pioneer synonymous with excellence and innovation.</p>
+                            <p>Explore JSB Group and discover how we are redefining success through innovation, excellence, and purpose-driven leadership.</p>
+                            <h5 style="font-weight: bold; color: #9e1e22">Our Purpose</h5>
+                            <p>Crafting Tomorrow's Experiences: Bridging F&B, Retail, Distribution, and Technology for a Brighter Future.</p>
+                            <h5 style="font-weight: bold; color: #9e1e22">Vision</h5>
+                            <p>Pioneering a Future Where F&B, Retail, Distribution, and Technology Seamlessly Merge to Enrich Lives and Transform Industries. </p>
+                            <h5 style="font-weight: bold; color: #9e1e22">Mission</h5>
+                            <p>Our mission is to be the preferred provider of F&B, retail, distribution, and technology solutions, offering a diverse range of high-quality products and services tailored to meet the evolving needs of our customers, while maximizing value for all stakeholders and contributing positively to society.</p>
+                        </div>
+                    </div>
+                    <!-- <div class="col-lg-6">
+                        <h2>our skill</h2>
+                        <div class="skill-bar">
+                            <div class="skill-bar-item">
+                                <span>investment</span>
+                                <div class="progress">
+                                    <div class="progress-bar wow fadeInLeft" data-progress="80%" style="width: 80%;" data-wow-duration="1.5s" data-wow-delay="1.2s">
+                                        <span class="text-top">80%</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill-bar-item">
+                                <span>consulting</span>
+                                <div class="progress">
+                                    <div class="progress-bar wow fadeInLeft" data-progress="90%" style="width: 90%;" data-wow-duration="1.5s" data-wow-delay="1.2s">
+                                        <span class="text-top">90%</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill-bar-item">
+                                <span>management</span>
+                                <div class="progress">
+                                    <div class="progress-bar wow fadeInLeft" data-progress="70%" style="width: 70%;" data-wow-duration="1.5s" data-wow-delay="1.2s">
+                                        <span class="text-top">70%</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skill-bar-item">
+                                <span>planning</span>
+                                <div class="progress">
+                                    <div class="progress-bar wow fadeInLeft" data-progress="95%" style="width: 95%;" data-wow-duration="1.5s" data-wow-delay="1.2s">
+                                        <span class="text-top">95%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </section>
+
+
+        <section class="consultation-area bg-3 fix mt-5">
+            <div class="container">
+                <div class="row align-items-center justify-content-center gy-5">
+                    <div class="col-lg-6 col-md-6 col-sm-8">
+                        <div class="consultation-img bounceInRight" data-wow-duration="2s" data-wow-delay=".5s">
+                            <img src="assets/images/banner/webjb-10.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="accordion">
+                            <h3 class="sub-title">CEO & Founder</h3>
+                            <p> Neelesh Bhatnagar, an esteemed entrepreneur with over three decades of experience spanning the Middle East and
+                                India. Renowned for his adeptness in integrating international management practices with local customs, Neelesh drives
+                                positive transformations within organizations. His illustrious career, including key roles at the Landmark Group, has
+                                earned him accolades such as being recognized by Forbes Middle East as one of the &quot;Top Indian Business Leaders 2018&quot;
+                                and by Arabian Business as one of the &quot;Indian Aces of 2018.&quot; Neelesh is celebrated for his leadership, integrity, and
+                                visionary approach.<a href="about.html">Read More</a> </p>
+                            <!-- <div class="panel-group" id="choose"> 
+                                
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a role="button" data-bs-toggle="collapse" href="#one">
+                                                <span></span>fast delivery
+                                            </a>
+                                        </h4>
+                                    </div>    
+                                    <div id="one" class="panel-collapse collapse show" data-bs-parent="#choose">
+                                        <div class="panel-body">     
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm fod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim hg veniam quis nostrud exercitation ullamco.</p>
+                                        </div>
+                                    </div>           
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed" role="button" data-bs-toggle="collapse" href="#two">
+                                                <span></span>Awesome Ideas 
+                                            </a>
+                                        </h4>
+                                    </div>    
+                                    <div id="two" class="panel-collapse collapse" data-bs-parent="#choose">
+                                        <div class="panel-body">     
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm fod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim hg veniam quis nostrud exercitation ullamco.</p>
+                                        </div> 
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed" role="button" data-bs-toggle="collapse" href="#three">
+                                                <span></span>
+                                                24 - 7 hours support
+                                            </a>
+                                        </h4>
+                                    </div>    
+                                    <div id="three" class="panel-collapse collapse" data-bs-parent="#choose">
+                                        <div class="panel-body">     
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm fod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim hg veniam quis nostrud exercitation ullamco.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+        <!-- About Skill Area End -->
+        <!-- Team Area Start -->
+        <section class="team-area team-area pt-110 pb-80">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h2>Business Heads</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+                
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner5.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Praveen Bhatnagar</h4>
+                                <!-- <span class="block">Executive</span> -->
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner5.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Rushab Bhatnagar</h4>
+                                <!-- <span class="block">Executive</span> -->
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner1.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Sanjeev Sinha</h4>
+                                <!-- <span class="block">Executive</span> -->
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner5.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Mohammed Ashik</h4>
+                                <!-- <span class="block">Executive</span> -->
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner2.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Sanal Kumar</h4>
+                                <!-- <span class="block">CEO</span> -->
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner3.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Deep Bhogal</h4>
+                                <!-- <span class="block">Manager</span> -->
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner5.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Naz Ayat</h4>
+                                <!-- <span class="block">Executive</span> -->
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-team">
+                            <div class="team-image"><img src="assets/images/team/jsbpartner4.jpg" alt=""></div>
+                            <div class="team-hover">
+                                <h4>Afshad Mistry</h4>
+                                <span class="block"></span>
+                                <div>
+                                    <a href="portfolio.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Team Area End -->
+        <!-- Footer Area Start -->
+        <footer class="footer-area bg-7 overlay-6">
+            <div class="footer-widget-area ptb-110">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="single-footer-widget">
+                                <div class="footer-logo">
+                                    <a href="index.html"><img src="assets/images/logo/JSB Group Logo.png" alt="Conjoint"></a>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipil elit sed do eiusmod tempor incididunt ut labor et dolore magna aliqua. Perspiciatis quisquam nulla, aspernatur minima iure animi temper.</p>
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-3 col-md-4 col-sm-7">
+                            <div class="single-footer-widget">
+                                <h4>contact us</h4>
+                                <div class="footer-c-info">
+                                    <span class="c-icon"><i class="zmdi zmdi-pin"></i></span>
+                                    <span class="c-text">House No 08, Road No 08, Mah Hya, Dhaka, Bangladesh</span>
+                                </div>
+                                <div class="footer-c-info">
+                                    <span class="c-icon"><i class="zmdi zmdi-email"></i></span>
+                                    <span class="c-text">Username@gmail.com</span>
+                                    <span class="c-text">Damo@gmail.com</span>
+                                </div>
+                                <div class="footer-c-info">
+                                    <span class="c-icon"><i class="zmdi zmdi-phone"></i></span>
+                                    <span class="c-text">+660 256 24857</span>
+                                    <span class="c-text">+660 256 24857</span>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="col-lg-2 col-md-4 col-sm-5">
+                            <div class="single-footer-widget">
+                                <h4>COMPANY</h4>
+                                <ul class="footer-list">
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Team</a></li>
+                                    <li><a href="#">Service</a></li>
+                                    <li><a href="#">Career</a></li>
+                                    <li><a href="#">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="single-footer-widget">
+                                <h4>QUICK LINKS</h4>
+                                <div class="footer-post">
+                                    <div class="footer-post-img">
+                                        <a href="blog-details.html"><img src="assets/images/blog/s-1.jpg" alt=""></a>
+                                    </div>
+                                    <div class="footer-post-text">
+                                        <a href="blog-details.html" class="p-title">The Yellow Chilli</a>
+                                        <a class="f-post-date" href="blog.html">Snap Fitness</a>
+                                    </div>
+                                </div>
+                                <div class="footer-post">
+                                    <div class="footer-post-img">
+                                        <a href="blog-details.html"><img src="assets/images/blog/s-2.jpg" alt=""></a>
+                                    </div>
+                                    <div class="footer-post-text">
+                                        <a href="blog-details.html" class="p-title">NB Ventures</a>
+                                        <a class="f-post-date" href="blog.html">Vanity Kart</a>
+                                    </div>
+                                </div>
+                                <div class="footer-post">
+                                    <div class="footer-post-img">
+                                        <a href="blog-details.html"><img src="assets/images/blog/s-2.jpg" alt=""></a>
+                                    </div>
+                                    <div class="footer-post-text">
+                                        <a href="blog-details.html" class="p-title">Pressmans</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-text-area fix ptb-20">
+                <div class="container">
+                    <div class="footer-text text-center">
+                        <p class="copy-right-text m-0 ">Copyright © <a href="#"><strong>JSB Group</strong></a> 2024. All right reserved</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Footer Area End -->
+       
+		<!-- JS
+        ============================================ -->
+
+        <!-- Modernizer & jQuery JS -->
+        <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+
+        <!-- Bootstrap JS -->
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+
+        <!-- Plugins JS -->
+        <script src="assets/js/animated-headlines.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/isotope.pkgd.min.js"></script>
+        <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.magnific-popup.js"></script>
+        <script src="assets/js/ajax-mail.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/plugins.js"></script>
+
+        <!-- Main JS -->
+        <script src="assets/js/main.js"></script>
+
+    </body>
+</html>
